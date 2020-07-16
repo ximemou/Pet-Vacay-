@@ -1,0 +1,166 @@
+C:\backend\PetVacay\PetVacay.API\bin\ApplicationInsights.config
+C:\backend\PetVacay\PetVacay.API\bin\roslyn\csc.exe
+C:\backend\PetVacay\PetVacay.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\backend\PetVacay\PetVacay.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\backend\PetVacay\PetVacay.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\backend\PetVacay\PetVacay.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\backend\PetVacay\PetVacay.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\backend\PetVacay\PetVacay.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\backend\PetVacay\PetVacay.API\bin\roslyn\System.Collections.Immutable.dll
+C:\backend\PetVacay\PetVacay.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\backend\PetVacay\PetVacay.API\bin\roslyn\vbc.exe
+C:\backend\PetVacay\PetVacay.API\bin\roslyn\VBCSCompiler.exe
+C:\backend\PetVacay\PetVacay.API\bin\roslyn\VBCSCompiler.exe.config
+C:\backend\PetVacay\PetVacay.API\bin\PetVacay.dll.config
+C:\backend\PetVacay\PetVacay.API\bin\PetVacay.dll
+C:\backend\PetVacay\PetVacay.API\bin\PetVacay.pdb
+C:\backend\PetVacay\PetVacay.API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\backend\PetVacay\PetVacay.API\bin\Microsoft.AI.DependencyCollector.dll
+C:\backend\PetVacay\PetVacay.API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\backend\PetVacay\PetVacay.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\backend\PetVacay\PetVacay.API\bin\Microsoft.AI.Web.dll
+C:\backend\PetVacay\PetVacay.API\bin\Microsoft.AI.WindowsServer.dll
+C:\backend\PetVacay\PetVacay.API\bin\Microsoft.ApplicationInsights.dll
+C:\backend\PetVacay\PetVacay.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\backend\PetVacay\PetVacay.API\bin\Microsoft.Practices.ServiceLocation.dll
+C:\backend\PetVacay\PetVacay.API\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\backend\PetVacay\PetVacay.API\bin\Microsoft.Practices.Unity.dll
+C:\backend\PetVacay\PetVacay.API\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\backend\PetVacay\PetVacay.API\bin\Newtonsoft.Json.dll
+C:\backend\PetVacay\PetVacay.API\bin\PetVacay.Data.dll
+C:\backend\PetVacay\PetVacay.API\bin\PetVacay.DependencyResolver.dll
+C:\backend\PetVacay\PetVacay.API\bin\PetVacay.DTO.dll
+C:\backend\PetVacay\PetVacay.API\bin\PetVacay.Exceptions.dll
+C:\backend\PetVacay\PetVacay.API\bin\PetVacay.Helpers.dll
+C:\backend\PetVacay\PetVacay.API\bin\PetVacay.JsonMessage.dll
+C:\backend\PetVacay\PetVacay.API\bin\PetVacay.Services.dll
+C:\backend\PetVacay\PetVacay.API\bin\System.Net.Http.Formatting.dll
+C:\backend\PetVacay\PetVacay.API\bin\System.Web.Cors.dll
+C:\backend\PetVacay\PetVacay.API\bin\System.Web.Http.Cors.dll
+C:\backend\PetVacay\PetVacay.API\bin\System.Web.Http.dll
+C:\backend\PetVacay\PetVacay.API\bin\System.Web.Http.WebHost.dll
+C:\backend\PetVacay\PetVacay.API\bin\Unity.WebApi.dll
+C:\backend\PetVacay\PetVacay.API\bin\PetVacay.Data.Repository.dll
+C:\backend\PetVacay\PetVacay.API\bin\PetVacay.Validators.dll
+C:\backend\PetVacay\PetVacay.API\bin\PetVacay.Enumerators.dll
+C:\backend\PetVacay\PetVacay.API\bin\PetVacay.Data.DataAccess.dll
+C:\backend\PetVacay\PetVacay.API\bin\EntityFramework.dll
+C:\backend\PetVacay\PetVacay.API\bin\EntityFramework.SqlServer.dll
+C:\backend\PetVacay\PetVacay.API\bin\PetVacay.Data.pdb
+C:\backend\PetVacay\PetVacay.API\bin\PetVacay.DependencyResolver.pdb
+C:\backend\PetVacay\PetVacay.API\bin\PetVacay.DTO.pdb
+C:\backend\PetVacay\PetVacay.API\bin\PetVacay.Exceptions.pdb
+C:\backend\PetVacay\PetVacay.API\bin\PetVacay.Helpers.pdb
+C:\backend\PetVacay\PetVacay.API\bin\PetVacay.JsonMessage.pdb
+C:\backend\PetVacay\PetVacay.API\bin\PetVacay.Services.pdb
+C:\backend\PetVacay\PetVacay.API\bin\Microsoft.AI.DependencyCollector.xml
+C:\backend\PetVacay\PetVacay.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\backend\PetVacay\PetVacay.API\bin\Microsoft.AI.Web.xml
+C:\backend\PetVacay\PetVacay.API\bin\Microsoft.AI.WindowsServer.xml
+C:\backend\PetVacay\PetVacay.API\bin\Microsoft.ApplicationInsights.xml
+C:\backend\PetVacay\PetVacay.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\backend\PetVacay\PetVacay.API\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\backend\PetVacay\PetVacay.API\bin\Microsoft.Practices.ServiceLocation.xml
+C:\backend\PetVacay\PetVacay.API\bin\Microsoft.Practices.Unity.xml
+C:\backend\PetVacay\PetVacay.API\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\backend\PetVacay\PetVacay.API\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\backend\PetVacay\PetVacay.API\bin\System.Web.Http.Cors.xml
+C:\backend\PetVacay\PetVacay.API\bin\Newtonsoft.Json.xml
+C:\backend\PetVacay\PetVacay.API\bin\System.Net.Http.Formatting.xml
+C:\backend\PetVacay\PetVacay.API\bin\System.Web.Http.xml
+C:\backend\PetVacay\PetVacay.API\bin\System.Web.Http.WebHost.xml
+C:\backend\PetVacay\PetVacay.API\bin\PetVacay.Data.Repository.pdb
+C:\backend\PetVacay\PetVacay.API\bin\PetVacay.Validators.pdb
+C:\backend\PetVacay\PetVacay.API\bin\PetVacay.Enumerators.pdb
+C:\backend\PetVacay\PetVacay.API\bin\PetVacay.Data.DataAccess.pdb
+C:\backend\PetVacay\PetVacay.API\bin\EntityFramework.xml
+C:\backend\PetVacay\PetVacay.API\bin\EntityFramework.SqlServer.xml
+C:\backend\PetVacay\PetVacay.API\bin\es\System.Net.Http.Formatting.resources.dll
+C:\backend\PetVacay\PetVacay.API\bin\es\System.Web.Http.resources.dll
+C:\backend\PetVacay\PetVacay.API\bin\es\System.Web.Http.WebHost.resources.dll
+C:\backend\PetVacay\PetVacay.API\obj\Release\PetVacay.API.csprojResolveAssemblyReference.cache
+C:\backend\PetVacay\PetVacay.API\obj\Release\PetVacay.dll
+C:\backend\PetVacay\PetVacay.API\obj\Release\PetVacay.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\obj\Release\PetVacay.API.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\ApplicationInsights.config
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\roslyn\csc.exe
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\roslyn\vbc.exe
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\PetVacay.dll.config
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\PetVacay.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\PetVacay.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Microsoft.AI.Web.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Microsoft.Practices.Unity.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Newtonsoft.Json.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\PetVacay.Data.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\PetVacay.Data.Repository.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\PetVacay.DependencyResolver.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\PetVacay.DTO.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\PetVacay.Exceptions.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\PetVacay.Helpers.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\PetVacay.JsonMessage.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\PetVacay.Services.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\System.Net.Http.Formatting.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\System.Web.Cors.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\System.Web.Http.Cors.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\System.Web.Http.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\System.Web.Http.WebHost.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Unity.WebApi.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\PetVacay.Data.DataAccess.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\EntityFramework.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\PetVacay.Validators.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\PetVacay.Adapters.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\EntityFramework.SqlServer.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\PetVacay.Data.Repository.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\PetVacay.Data.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\PetVacay.DependencyResolver.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\PetVacay.DTO.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\PetVacay.Exceptions.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\PetVacay.Helpers.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\PetVacay.JsonMessage.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\PetVacay.Services.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Microsoft.AI.Web.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Microsoft.Practices.Unity.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\System.Web.Http.Cors.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\Newtonsoft.Json.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\System.Net.Http.Formatting.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\System.Web.Http.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\System.Web.Http.WebHost.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\PetVacay.Data.DataAccess.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\EntityFramework.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\PetVacay.Validators.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\PetVacay.Adapters.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\EntityFramework.SqlServer.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\es\System.Web.Http.resources.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\obj\Release\PetVacay.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.API\obj\Release\PetVacay.pdb

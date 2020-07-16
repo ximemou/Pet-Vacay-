@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ximenamoure.petvacay.ClientProfileActivity"
+    android:background="@color/colorBackground"
+    android:orientation="vertical">
+
+    <include layout="@layout/layout_toolbar"
+         />
+
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:padding="16dp"
+        android:id="@+id/clientData"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:elevation="50dp"
+        android:layout_marginTop="10dp"
+        android:onClick="onClickHandler"
+        card_view:cardUseCompatPadding="true"
+        card_view:cardElevation="4dp"
+        card_view:cardCornerRadius="3dp"
+       >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#d3d5d9"
+                android:elevation="8dp"
+                android:padding="16dp">
+
+
+                <TextView
+                    android:id="@+id/yourData"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:text="Tus datos"
+                    android:textSize="18sp" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentStart="true"
+                android:layout_gravity="bottom">
+
+
+                <ImageView
+
+                    android:paddingTop="5dp"
+                    android:id="@+id/clientImage"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_marginStart="25dp"
+                    android:src="@drawable/imageicon"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginBottom="21dp" />
+
+
+                <TextView
+                    android:id="@+id/clientEmail"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="60dp"
+                    android:layout_marginStart="26dp"
+                    android:layout_marginTop="11dp"
+                    android:inputType="textEmailAddress"
+                    android:text="ejemplo@gmail.com"
+                    android:textAlignment="center"
+                    android:textSize="14sp"
+                    android:layout_alignTop="@+id/clientImage"
+                    android:layout_toEndOf="@+id/clientImage" />
+
+                <TextView
+                    android:id="@+id/clientBookings"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="60dp"
+                    android:layout_marginStart="26dp"
+                    android:layout_marginTop="40dp"
+                    android:background="@color/calendar_selected_date_text"
+                    android:text="Mis Reservas"
+                    android:textAlignment="center"
+                    android:textSize="14sp"
+                    android:layout_alignTop="@+id/clientImage"
+                    android:layout_toEndOf="@+id/clientImage"/>
+
+                <TextView
+                    android:id="@+id/deleteClientBtn"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="60dp"
+                    android:layout_marginStart="15dp"
+                    android:layout_marginTop="40dp"
+                    android:text="Darme de baja"
+                    android:background="@color/calendar_selected_date_text"
+                    android:textAlignment="center"
+                    android:textSize="14sp"
+                    android:layout_alignTop="@+id/clientImage"
+                    android:layout_toRightOf="@+id/clientBookings"/>
+
+                <ImageView
+                    android:id="@+id/imageButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/clientImage"
+                    android:layout_alignStart="@+id/clientEmail"
+                    android:layout_marginStart="52dp"
+                    app:srcCompat="@drawable/ic_action_edit" />
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+
+    </android.support.v7.widget.CardView>
+
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/petsData"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="18dp"
+        android:layout_marginTop="10dp"
+        card_view:cardUseCompatPadding="true"
+        card_view:cardElevation="4dp"
+        card_view:cardCornerRadius="3dp">
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#d3d5d9"
+            android:elevation="8dp"
+            android:padding="16dp">
+
+
+            <TextView
+                android:id="@+id/yourPetsData"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:paddingBottom="5dp"
+                android:text="Tus mascotas"
+                android:textSize="18sp" />
+
+        </RelativeLayout>
+
+            <android.support.v7.widget.RecyclerView
+                android:layout_marginTop="5dp"
+                android:id="@+id/petsContainer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/yourPetsData"
+                android:scrollbars="none"
+                android:divider="?android:dividerHorizontal"
+                android:showDividers="middle"
+                >
+            </android.support.v7.widget.RecyclerView>
+
+
+</LinearLayout>
+
+
+    </android.support.v7.widget.CardView>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:background="@color/colorPrimary">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/ic_action_add"
+            android:tint="@color/white"
+            android:layout_marginRight="8dp"/>
+
+        <Button
+            android:id="@+id/buttonAddPet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Agregar mascota"
+            android:textSize="20sp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:background="@android:color/transparent"
+            android:layout_gravity="bottom"
+            android:layout_below="@id/petsContainer"
+            android:onClick="addPet"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>
+
+    </android.support.v4.widget.NestedScrollView>
+
+

@@ -1,0 +1,8 @@
+C:\backend\PetVacay\PetVacay.DTO\bin\Release\PetVacay.DTO.dll
+C:\backend\PetVacay\PetVacay.DTO\bin\Release\PetVacay.DTO.pdb
+C:\backend\PetVacay\PetVacay.DTO\obj\Release\PetVacay.DTO.dll
+C:\backend\PetVacay\PetVacay.DTO\obj\Release\PetVacay.DTO.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.DTO\bin\Release\PetVacay.DTO.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.DTO\bin\Release\PetVacay.DTO.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.DTO\obj\Release\PetVacay.DTO.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.DTO\obj\Release\PetVacay.DTO.pdb

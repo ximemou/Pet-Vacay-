@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BA67566E-415E-4D2C-B286-D8B7376CD926}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PetVacay.Tests</RootNamespace>
+    <AssemblyName>PetVacay.Tests</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+    <ReferencePath>$(ProgramFiles)\Common Files\microsoft shared\VSTT\$(VisualStudioVersion)\UITestExtensionPackages</ReferencePath>
+    <IsCodedUITest>False</IsCodedUITest>
+    <TestProjectType>UnitTest</TestProjectType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <Choose>
+    <When Condition="('$(VisualStudioVersion)' == '10.0' or '$(VisualStudioVersion)' == '') and '$(TargetFrameworkVersion)' == 'v3.5'">
+      <ItemGroup>
+        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+      </ItemGroup>
+    </When>
+    <Otherwise>
+      <ItemGroup>
+        <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework">
+          <Private>False</Private>
+        </Reference>
+      </ItemGroup>
+    </Otherwise>
+  </Choose>
+  <ItemGroup>
+    <Compile Include="ClientLogicTest.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="AdapterTest.cs" />
+    <Compile Include="BookingLogicTest.cs" />
+    <Compile Include="WorkerLogicTest.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PetVacay.Adapters\PetVacay.Adapters.csproj">
+      <Project>{171BAF65-AE5F-4C2F-8C9A-58CAAAAFE9EB}</Project>
+      <Name>PetVacay.Adapters</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PetVacay.Data.DataAccess\PetVacay.Data.DataAccess.csproj">
+      <Project>{f230b530-6a6b-47e1-a4fd-f5c4e1f39251}</Project>
+      <Name>PetVacay.Data.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PetVacay.Data.Repository\PetVacay.Data.Repository.csproj">
+      <Project>{48ab4a8a-d9c0-4f89-9d1e-60ea8ba7f219}</Project>
+      <Name>PetVacay.Data.Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PetVacay.Data\PetVacay.Data.csproj">
+      <Project>{31e48e3e-f822-49fb-9f35-3ac1d588a496}</Project>
+      <Name>PetVacay.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PetVacay.DTO\PetVacay.DTO.csproj">
+      <Project>{e40082f2-69b7-4e0f-b7a2-adfa3c31bf4a}</Project>
+      <Name>PetVacay.DTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PetVacay.Exceptions\PetVacay.Exceptions.csproj">
+      <Project>{0029c0aa-3ca1-4452-bbd4-7983211a69cc}</Project>
+      <Name>PetVacay.Exceptions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PetVacay.Helpers\PetVacay.Helpers.csproj">
+      <Project>{0a5d107a-0228-4e0f-92fd-3eb3d69d8a51}</Project>
+      <Name>PetVacay.Helpers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PetVacay.Services\PetVacay.Services.csproj">
+      <Project>{6307a2cf-62f5-465d-8588-f4034765ff3a}</Project>
+      <Name>PetVacay.Services</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <Choose>
+    <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
+      <ItemGroup>
+        <Reference Include="Microsoft.VisualStudio.QualityTools.CodedUITestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITest.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITest.Extension, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+        <Reference Include="Microsoft.VisualStudio.TestTools.UITesting, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <Private>False</Private>
+        </Reference>
+      </ItemGroup>
+    </When>
+  </Choose>
+  <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

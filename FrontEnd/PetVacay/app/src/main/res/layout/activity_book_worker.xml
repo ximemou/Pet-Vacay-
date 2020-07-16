@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ximenamoure.petvacay.BookWorkerActivity"
+    android:fillViewport="true"
+    >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1"
+        >
+
+        <include layout="@layout/layout_toolbar" />
+
+        <View style="@style/Divider" android:layout_marginTop="5dp"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:layout_marginTop="10dp">
+
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="20dp"
+                android:id="@+id/txtCallSelectedWorker"
+                android:text="Llamar al trabajador"
+                android:layout_centerVertical="true"
+                android:layout_toEndOf="@+id/btnCallSelectedWorker"
+                android:layout_marginStart="15dp" />
+            <Button
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:id="@+id/btnCallSelectedWorker"
+                android:background="@drawable/call_image"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentStart="true" />
+
+        </RelativeLayout>
+
+        <View style="@style/Divider"/>
+
+        <RelativeLayout
+
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="61dp"
+            android:layout_weight="0.17"
+            android:layout_marginTop="5dp">
+
+            <ImageView
+                android:layout_width="40dp"
+                android:layout_height="30dp"
+                android:src="@drawable/ic_date_range"
+                android:tint="@color/colorPrimary"
+                android:id="@+id/imageView2"
+                android:layout_alignTop="@+id/startDateTxt"
+                android:layout_alignParentStart="true" />
+
+            <TextView
+                android:id="@+id/startDateTxt"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:hint="Elija el periodo para la reserva"
+
+                android:layout_alignParentTop="true"
+                android:layout_toEndOf="@+id/imageView2"
+                android:layout_marginStart="10dp" />
+
+            <TextView
+                android:id="@+id/finishDateTxt"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                android:hint="Elija el periodo para la reserva"
+                android:layout_alignParentTop="true"
+                android:layout_toEndOf="@+id/startDateTxt" />
+
+
+         </RelativeLayout>
+
+        <View style="@style/Divider"/>
+
+
+        <CheckBox
+            android:id="@+id/checkboxBookingType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/petsContainerToBook"
+            android:layout_marginTop="15dp"
+            android:padding="15dp"
+            android:layout_marginStart="10dp"
+            android:text="Pasear mascota" />
+
+        <View style="@style/Divider"/>
+
+
+
+
+        <android.support.v7.widget.CardView
+            xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/petsToSelect"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:elevation="18dp"
+            android:layout_marginTop="10dp"
+            card_view:cardUseCompatPadding="true"
+            card_view:cardElevation="4dp"
+            card_view:cardCornerRadius="3dp">
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#d3d5d9"
+                    android:elevation="8dp"
+                    android:padding="16dp">
+
+
+                    <TextView
+                        android:id="@+id/selectPet"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentTop="true"
+                        android:paddingBottom="5dp"
+                        android:text="Seleccione mascota"
+                        android:textSize="16sp" />
+
+                </RelativeLayout>
+
+                <android.support.v7.widget.RecyclerView
+                    android:layout_marginTop="5dp"
+                    android:id="@+id/petsContainerToBook"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:scrollbars="none"
+                    android:divider="?android:dividerHorizontal"
+
+                    >
+                </android.support.v7.widget.RecyclerView>
+
+
+            </LinearLayout>
+
+
+
+
+
+        </android.support.v7.widget.CardView>
+
+
+
+        <Button
+            android:id="@+id/btnMakeBooking"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/checkboxBookingType"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="bottom"
+            android:layout_marginTop="20dp"
+            android:background="@color/colorPrimary"
+            android:text="Reservar"
+            android:textColor="@color/white"/>
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>

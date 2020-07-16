@@ -1,0 +1,8 @@
+C:\backend\PetVacay\PetVacay.JsonMessage\bin\Release\PetVacay.JsonMessage.dll
+C:\backend\PetVacay\PetVacay.JsonMessage\bin\Release\PetVacay.JsonMessage.pdb
+C:\backend\PetVacay\PetVacay.JsonMessage\obj\Release\PetVacay.JsonMessage.dll
+C:\backend\PetVacay\PetVacay.JsonMessage\obj\Release\PetVacay.JsonMessage.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.JsonMessage\bin\Release\PetVacay.JsonMessage.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.JsonMessage\bin\Release\PetVacay.JsonMessage.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.JsonMessage\obj\Release\PetVacay.JsonMessage.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.JsonMessage\obj\Release\PetVacay.JsonMessage.pdb

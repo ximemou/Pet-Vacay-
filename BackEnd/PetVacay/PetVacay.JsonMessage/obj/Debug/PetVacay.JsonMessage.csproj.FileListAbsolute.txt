@@ -1,0 +1,16 @@
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.JsonMessage\bin\Debug\PetVacay.JsonMessage.dll
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.JsonMessage\bin\Debug\PetVacay.JsonMessage.pdb
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.JsonMessage\obj\Debug\PetVacay.JsonMessage.dll
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.JsonMessage\obj\Debug\PetVacay.JsonMessage.pdb
+C:\repo\PetVacay\PetVacay.JsonMessage\bin\Debug\PetVacay.JsonMessage.dll
+C:\repo\PetVacay\PetVacay.JsonMessage\bin\Debug\PetVacay.JsonMessage.pdb
+C:\repo\PetVacay\PetVacay.JsonMessage\obj\Debug\PetVacay.JsonMessage.dll
+C:\repo\PetVacay\PetVacay.JsonMessage\obj\Debug\PetVacay.JsonMessage.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.JsonMessage\bin\Debug\PetVacay.JsonMessage.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.JsonMessage\bin\Debug\PetVacay.JsonMessage.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.JsonMessage\obj\Debug\PetVacay.JsonMessage.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.JsonMessage\obj\Debug\PetVacay.JsonMessage.pdb
+C:\backend\PetVacay\PetVacay.JsonMessage\bin\Debug\PetVacay.JsonMessage.dll
+C:\backend\PetVacay\PetVacay.JsonMessage\bin\Debug\PetVacay.JsonMessage.pdb
+C:\backend\PetVacay\PetVacay.JsonMessage\obj\Debug\PetVacay.JsonMessage.dll
+C:\backend\PetVacay\PetVacay.JsonMessage\obj\Debug\PetVacay.JsonMessage.pdb

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ximenamoure.petvacay.WorkerMakeInformsActivity"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <include layout="@layout/layout_toolbar"/>
+
+
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <TextView
+                android:id="@+id/inform"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginTop="20dp"
+                android:text="Crear informe"
+                android:gravity="center"
+                android:background="@color/md_blue_grey_400"/>
+
+        </RelativeLayout>
+
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_above="@+id/spinnerDays"
+            android:layout_marginTop="5dp"/>
+
+        <Spinner
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:id="@+id/spinnerDays">
+        </Spinner>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_below="@+id/spinnerDays"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:maxLines="30"
+            android:hint="Escriba su informe..."
+            android:scrollbars="vertical"
+            android:id="@+id/informText"
+            android:inputType="textMultiLine"
+            android:lines="2"
+            android:minLines="1"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="20dp" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="8dp"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center"
+            android:background="@color/colorPrimary"
+            android:weightSum="1">
+
+            <ImageView
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:src="@drawable/ic_action_add"
+                android:tint="@color/white"
+                android:layout_marginRight="8dp"/>
+
+            <Button
+                android:id="@+id/makeInformBtn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Crear informe"
+                android:textSize="20sp"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:background="@android:color/transparent"
+                android:layout_weight="0.23" />
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>

@@ -1,0 +1,5 @@
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Adapters\bin\Release\PetVacay.Adapters.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Adapters\bin\Release\PetVacay.Adapters.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Adapters\obj\Release\PetVacay.Adapters.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Adapters\obj\Release\PetVacay.Adapters.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Adapters\obj\Release\PetVacay.Adapters.pdb

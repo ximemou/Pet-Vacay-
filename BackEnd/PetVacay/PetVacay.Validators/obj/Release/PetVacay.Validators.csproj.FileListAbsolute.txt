@@ -1,0 +1,58 @@
+C:\backend\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Validators.dll
+C:\backend\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Validators.pdb
+C:\backend\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Data.dll
+C:\backend\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Data.Repository.dll
+C:\backend\PetVacay\PetVacay.Validators\bin\Release\PetVacay.DependencyResolver.dll
+C:\backend\PetVacay\PetVacay.Validators\bin\Release\PetVacay.DTO.dll
+C:\backend\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Exceptions.dll
+C:\backend\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Helpers.dll
+C:\backend\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Data.DataAccess.dll
+C:\backend\PetVacay\PetVacay.Validators\bin\Release\EntityFramework.dll
+C:\backend\PetVacay\PetVacay.Validators\bin\Release\Microsoft.Practices.Unity.dll
+C:\backend\PetVacay\PetVacay.Validators\bin\Release\EntityFramework.SqlServer.dll
+C:\backend\PetVacay\PetVacay.Validators\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\backend\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Data.Repository.pdb
+C:\backend\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Data.pdb
+C:\backend\PetVacay\PetVacay.Validators\bin\Release\PetVacay.DependencyResolver.pdb
+C:\backend\PetVacay\PetVacay.Validators\bin\Release\PetVacay.DTO.pdb
+C:\backend\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Exceptions.pdb
+C:\backend\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Helpers.pdb
+C:\backend\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Data.DataAccess.pdb
+C:\backend\PetVacay\PetVacay.Validators\bin\Release\EntityFramework.xml
+C:\backend\PetVacay\PetVacay.Validators\bin\Release\Microsoft.Practices.Unity.xml
+C:\backend\PetVacay\PetVacay.Validators\bin\Release\EntityFramework.SqlServer.xml
+C:\backend\PetVacay\PetVacay.Validators\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\backend\PetVacay\PetVacay.Validators\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\backend\PetVacay\PetVacay.Validators\obj\Release\PetVacay.Validators.csprojResolveAssemblyReference.cache
+C:\backend\PetVacay\PetVacay.Validators\obj\Release\PetVacay.Validators.dll
+C:\backend\PetVacay\PetVacay.Validators\obj\Release\PetVacay.Validators.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Validators.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Validators.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Data.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Data.Repository.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\PetVacay.DependencyResolver.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\PetVacay.DTO.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Enumerators.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Exceptions.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Helpers.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Data.DataAccess.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\EntityFramework.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Data.Repository.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Data.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\PetVacay.DependencyResolver.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\PetVacay.DTO.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Enumerators.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Exceptions.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Helpers.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\PetVacay.Data.DataAccess.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\EntityFramework.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\Microsoft.Practices.Unity.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\obj\Release\PetVacay.Validators.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\obj\Release\PetVacay.Validators.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Validators\obj\Release\PetVacay.Validators.pdb

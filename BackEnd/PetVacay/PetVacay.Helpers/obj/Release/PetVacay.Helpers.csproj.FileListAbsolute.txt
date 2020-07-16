@@ -1,0 +1,9 @@
+C:\backend\PetVacay\PetVacay.Helpers\bin\Release\PetVacay.Helpers.dll
+C:\backend\PetVacay\PetVacay.Helpers\bin\Release\PetVacay.Helpers.pdb
+C:\backend\PetVacay\PetVacay.Helpers\obj\Release\PetVacay.Helpers.dll
+C:\backend\PetVacay\PetVacay.Helpers\obj\Release\PetVacay.Helpers.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Helpers\bin\Release\PetVacay.Helpers.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Helpers\bin\Release\PetVacay.Helpers.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Helpers\obj\Release\PetVacay.Helpers.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Helpers\obj\Release\PetVacay.Helpers.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Helpers\obj\Release\PetVacay.Helpers.pdb

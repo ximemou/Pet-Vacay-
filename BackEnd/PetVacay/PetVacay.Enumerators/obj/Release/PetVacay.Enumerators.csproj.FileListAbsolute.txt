@@ -1,0 +1,8 @@
+C:\backend\PetVacay\PetVacay.Enumerators\bin\Release\PetVacay.Enumerators.dll
+C:\backend\PetVacay\PetVacay.Enumerators\bin\Release\PetVacay.Enumerators.pdb
+C:\backend\PetVacay\PetVacay.Enumerators\obj\Release\PetVacay.Enumerators.dll
+C:\backend\PetVacay\PetVacay.Enumerators\obj\Release\PetVacay.Enumerators.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Enumerators\bin\Release\PetVacay.Enumerators.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Enumerators\bin\Release\PetVacay.Enumerators.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Enumerators\obj\Release\PetVacay.Enumerators.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Enumerators\obj\Release\PetVacay.Enumerators.pdb

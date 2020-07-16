@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="@color/colorBackground">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.example.ximenamoure.petvacay.WorkerRegistrationActivity"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <RelativeLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@color/colorBackground"
+            android:id="@+id/relativeLayout"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintVertical_bias="0.0">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/registro"/>
+
+        </RelativeLayout>
+
+
+
+        <EditText
+
+            android:id="@+id/txtMail"
+            android:layout_width="291dp"
+            android:layout_height="45dp"
+            android:ems="10"
+            android:fontFamily="sans-serif"
+            android:hint="Correo electrónico"
+            android:inputType="textEmailAddress"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="30dp"
+            android:layout_gravity="center_horizontal"/>
+
+        <EditText
+
+            android:id="@+id/txtPassword"
+            android:layout_width="291dp"
+            android:layout_height="43dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="16dp"
+            android:ems="10"
+            android:fontFamily="sans-serif"
+            android:hint="Contraseña"
+            android:inputType="textPassword" />
+
+        <EditText
+
+            android:id="@+id/txtConfirmPassword"
+            android:layout_width="291dp"
+            android:layout_height="43dp"
+            android:ems="10"
+            android:fontFamily="sans-serif"
+            android:hint="Confirmar contraseña"
+            android:inputType="textPassword"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="16dp"
+            android:layout_gravity="center_horizontal"/>
+
+        <CheckBox
+            android:layout_marginStart="5dp"
+            android:id="@+id/checkBoxWalker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center_horizontal"
+            android:text="Puedo pasear mascota" />
+
+        <android.support.v7.widget.CardView
+
+
+            android:id="@+id/disponibilityCardView"
+            android:layout_width="291dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="16dp"
+            android:layout_gravity="center_horizontal"
+            android:visibility="gone"
+            >
+
+            <RelativeLayout
+
+                android:layout_width="291dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:background="#d3d5d9"
+                android:elevation="8dp"
+                android:padding="16dp">
+
+                <TextView
+                    android:id="@+id/availability"
+                    android:layout_marginStart="5dp"
+                    android:layout_width="291dp"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:text="Dias disponibles"
+                    android:textSize="18sp" />
+
+            </RelativeLayout>
+
+
+            <ListView
+
+                android:layout_marginStart="5dp"
+                android:paddingTop="10dp"
+                android:id="@+id/listDays"
+                android:layout_width="match_parent"
+                android:layout_height="344dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginTop="60dp"
+                android:layout_gravity="center_horizontal"
+                android:scrollbars="none"></ListView>
+        </android.support.v7.widget.CardView>
+
+
+        <Button
+            android:id="@+id/btnRegisterUser"
+            android:layout_width="167dp"
+            android:layout_height="48dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginEnd="8dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginStart="5dp"
+            android:layout_weight="0.01"
+            android:text="Registrarse"
+            android:layout_marginTop="10dp"
+            android:background="@color/signInButton"
+            android:textStyle="bold"
+            style="?android:textAppearanceSmall"/>
+
+
+    </LinearLayout>
+
+    </android.support.v4.widget.NestedScrollView>

@@ -1,0 +1,28 @@
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.DTO\bin\Debug\PetVacay.DTO.dll
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.DTO\bin\Debug\PetVacay.DTO.pdb
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.DTO\obj\Debug\PetVacay.DTO.dll
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.DTO\obj\Debug\PetVacay.DTO.pdb
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.DTO\bin\Debug\PetVacay.DTO.dll
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.DTO\bin\Debug\PetVacay.DTO.pdb
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.DTO\obj\Debug\PetVacay.DTO.dll
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.DTO\obj\Debug\PetVacay.DTO.pdb
+C:\repositorio\PetVacay\PetVacay.DTO\bin\Debug\PetVacay.DTO.dll
+C:\repositorio\PetVacay\PetVacay.DTO\bin\Debug\PetVacay.DTO.pdb
+C:\repositorio\PetVacay\PetVacay.DTO\obj\Debug\PetVacay.DTO.dll
+C:\repositorio\PetVacay\PetVacay.DTO\obj\Debug\PetVacay.DTO.pdb
+C:\repo\PetVacay\PetVacay.DTO\bin\Debug\PetVacay.DTO.dll
+C:\repo\PetVacay\PetVacay.DTO\bin\Debug\PetVacay.DTO.pdb
+C:\repo\PetVacay\PetVacay.DTO\obj\Debug\PetVacay.DTO.csprojResolveAssemblyReference.cache
+C:\repo\PetVacay\PetVacay.DTO\obj\Debug\PetVacay.DTO.dll
+C:\repo\PetVacay\PetVacay.DTO\obj\Debug\PetVacay.DTO.pdb
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.DTO\obj\Debug\PetVacay.DTO.csprojResolveAssemblyReference.cache
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.DTO\bin\Debug\PetVacay.DTO.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.DTO\bin\Debug\PetVacay.DTO.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.DTO\obj\Debug\PetVacay.DTO.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.DTO\obj\Debug\PetVacay.DTO.pdb
+C:\backend\PetVacay\PetVacay.DTO\bin\Debug\PetVacay.DTO.dll
+C:\backend\PetVacay\PetVacay.DTO\bin\Debug\PetVacay.DTO.pdb
+C:\backend\PetVacay\PetVacay.DTO\obj\Debug\PetVacay.DTO.dll
+C:\backend\PetVacay\PetVacay.DTO\obj\Debug\PetVacay.DTO.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.DTO\obj\Debug\PetVacay.DTO.csprojResolveAssemblyReference.cache
+C:\backend\PetVacay\PetVacay.DTO\obj\Debug\PetVacay.DTO.csprojResolveAssemblyReference.cache

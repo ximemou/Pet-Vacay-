@@ -1,0 +1,8 @@
+C:\backend\PetVacay\PetVacay.Exceptions\bin\Release\PetVacay.Exceptions.dll
+C:\backend\PetVacay\PetVacay.Exceptions\bin\Release\PetVacay.Exceptions.pdb
+C:\backend\PetVacay\PetVacay.Exceptions\obj\Release\PetVacay.Exceptions.dll
+C:\backend\PetVacay\PetVacay.Exceptions\obj\Release\PetVacay.Exceptions.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Exceptions\bin\Release\PetVacay.Exceptions.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Exceptions\bin\Release\PetVacay.Exceptions.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Exceptions\obj\Release\PetVacay.Exceptions.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Exceptions\obj\Release\PetVacay.Exceptions.pdb

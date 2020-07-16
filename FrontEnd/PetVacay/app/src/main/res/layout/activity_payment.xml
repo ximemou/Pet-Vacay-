@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="#ffffff"
+android:orientation="vertical"
+android:gravity="center"
+tools:context="com.example.ximenamoure.petvacay.PaymentActivity">
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="0dp"
+    android:layout_weight="1"
+    android:orientation="vertical"
+    android:gravity="center">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:padding="8dp">
+
+        <TextView
+            android:id="@+id/amountToPay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Monto a pagar: "
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/credit_card_number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="8dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_credit_card"
+            android:tint="@color/colorPrimary" />
+
+        <EditText
+            android:id="@+id/creditCardNumber"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:hint="Numero tarjeta de credito" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/credit_card_expiration"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="8dp"
+        android:gravity="center"
+        android:layout_below="@id/credit_card_number">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_date_range"
+            android:tint="@color/colorPrimary" />
+
+        <EditText
+            android:id="@+id/expirationDate"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:hint="Fecha vencimiento" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/credit_card_ccv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="8dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_below="@+id/credit_card_expiration"
+        android:gravity="center">
+
+
+        <EditText
+            android:id="@+id/ccv"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:hint="ccv"
+            android:inputType="number" />
+
+
+    </LinearLayout>
+
+</LinearLayout>
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="8dp"
+    android:layout_gravity="center_horizontal"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pago de la reserva."
+        android:textSize="12sp"
+        android:textColor="#100f0f"
+        android:alpha=".87"/>
+
+</LinearLayout>
+
+
+
+
+
+
+
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="8dp"
+    android:layout_gravity="center_horizontal"
+    android:gravity="center"
+    android:background="@color/colorPrimary">
+
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/paymenticon"
+        android:tint="@color/white"
+        android:layout_marginRight="8dp"/>
+
+    <Button
+        android:id="@+id/payButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PAGAR"
+        android:textSize="20sp"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:background="@android:color/transparent"/>
+
+</LinearLayout>
+
+
+
+</LinearLayout>

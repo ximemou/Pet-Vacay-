@@ -1,0 +1,11 @@
+C:\backend\PetVacay\PetVacay.Data\bin\Release\PetVacay.Data.dll
+C:\backend\PetVacay\PetVacay.Data\bin\Release\PetVacay.Data.pdb
+C:\backend\PetVacay\PetVacay.Data\obj\Release\PetVacay.Data.dll
+C:\backend\PetVacay\PetVacay.Data\obj\Release\PetVacay.Data.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data\bin\Release\PetVacay.Data.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data\bin\Release\PetVacay.Data.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data\bin\Release\PetVacay.Enumerators.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data\bin\Release\PetVacay.Enumerators.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data\obj\Release\PetVacay.Data.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data\obj\Release\PetVacay.Data.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data\obj\Release\PetVacay.Data.pdb

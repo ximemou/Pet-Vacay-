@@ -1,0 +1,24 @@
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Enumerators\bin\Debug\PetVacay.Enumerators.dll
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Enumerators\bin\Debug\PetVacay.Enumerators.pdb
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Enumerators\obj\Debug\PetVacay.Enumerators.dll
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Enumerators\obj\Debug\PetVacay.Enumerators.pdb
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Enumerators\bin\Debug\PetVacay.Enumerators.dll
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Enumerators\bin\Debug\PetVacay.Enumerators.pdb
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Enumerators\obj\Debug\PetVacay.Enumerators.dll
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Enumerators\obj\Debug\PetVacay.Enumerators.pdb
+C:\repositorio\PetVacay\PetVacay.Enumerators\bin\Debug\PetVacay.Enumerators.dll
+C:\repositorio\PetVacay\PetVacay.Enumerators\bin\Debug\PetVacay.Enumerators.pdb
+C:\repositorio\PetVacay\PetVacay.Enumerators\obj\Debug\PetVacay.Enumerators.dll
+C:\repositorio\PetVacay\PetVacay.Enumerators\obj\Debug\PetVacay.Enumerators.pdb
+C:\repo\PetVacay\PetVacay.Enumerators\bin\Debug\PetVacay.Enumerators.dll
+C:\repo\PetVacay\PetVacay.Enumerators\bin\Debug\PetVacay.Enumerators.pdb
+C:\repo\PetVacay\PetVacay.Enumerators\obj\Debug\PetVacay.Enumerators.dll
+C:\repo\PetVacay\PetVacay.Enumerators\obj\Debug\PetVacay.Enumerators.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Enumerators\bin\Debug\PetVacay.Enumerators.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Enumerators\bin\Debug\PetVacay.Enumerators.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Enumerators\obj\Debug\PetVacay.Enumerators.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Enumerators\obj\Debug\PetVacay.Enumerators.pdb
+C:\backend\PetVacay\PetVacay.Enumerators\bin\Debug\PetVacay.Enumerators.dll
+C:\backend\PetVacay\PetVacay.Enumerators\bin\Debug\PetVacay.Enumerators.pdb
+C:\backend\PetVacay\PetVacay.Enumerators\obj\Debug\PetVacay.Enumerators.dll
+C:\backend\PetVacay\PetVacay.Enumerators\obj\Debug\PetVacay.Enumerators.pdb

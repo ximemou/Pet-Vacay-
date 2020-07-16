@@ -1,0 +1,38 @@
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Data\bin\Debug\PetVacay.Data.dll
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Data\bin\Debug\PetVacay.Data.pdb
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Data\obj\Debug\PetVacay.Data.dll
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Data\obj\Debug\PetVacay.Data.pdb
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Data\bin\Debug\PetVacay.Data.dll
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Data\bin\Debug\PetVacay.Data.pdb
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Data\obj\Debug\PetVacay.Data.dll
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Data\obj\Debug\PetVacay.Data.pdb
+C:\repositorio\PetVacay\PetVacay.Data\bin\Debug\PetVacay.Data.dll
+C:\repositorio\PetVacay\PetVacay.Data\bin\Debug\PetVacay.Data.pdb
+C:\repositorio\PetVacay\PetVacay.Data\obj\Debug\PetVacay.Data.dll
+C:\repositorio\PetVacay\PetVacay.Data\obj\Debug\PetVacay.Data.pdb
+C:\repo\PetVacay\PetVacay.Data\bin\Debug\PetVacay.Data.dll
+C:\repo\PetVacay\PetVacay.Data\bin\Debug\PetVacay.Data.pdb
+C:\repo\PetVacay\PetVacay.Data\obj\Debug\PetVacay.Data.csprojResolveAssemblyReference.cache
+C:\repo\PetVacay\PetVacay.Data\obj\Debug\PetVacay.Data.dll
+C:\repo\PetVacay\PetVacay.Data\obj\Debug\PetVacay.Data.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Data\bin\Debug\PetVacay.Data.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Data\bin\Debug\PetVacay.Data.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Data\bin\Debug\PetVacay.Enumerators.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Data\bin\Debug\PetVacay.Enumerators.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Data\obj\Debug\PetVacay.Data.csprojResolveAssemblyReference.cache
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Data\obj\Debug\PetVacay.Data.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Data\obj\Debug\PetVacay.Data.pdb
+C:\backend\PetVacay\PetVacay.Data\bin\Debug\PetVacay.Data.dll
+C:\backend\PetVacay\PetVacay.Data\bin\Debug\PetVacay.Data.pdb
+C:\backend\PetVacay\PetVacay.Data\bin\Debug\PetVacay.Enumerators.dll
+C:\backend\PetVacay\PetVacay.Data\bin\Debug\PetVacay.Enumerators.pdb
+C:\backend\PetVacay\PetVacay.Data\obj\Debug\PetVacay.Data.csprojResolveAssemblyReference.cache
+C:\backend\PetVacay\PetVacay.Data\obj\Debug\PetVacay.Data.dll
+C:\backend\PetVacay\PetVacay.Data\obj\Debug\PetVacay.Data.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data\bin\Debug\PetVacay.Data.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data\bin\Debug\PetVacay.Data.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data\bin\Debug\PetVacay.Enumerators.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data\bin\Debug\PetVacay.Enumerators.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data\obj\Debug\PetVacay.Data.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data\obj\Debug\PetVacay.Data.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data\obj\Debug\PetVacay.Data.pdb

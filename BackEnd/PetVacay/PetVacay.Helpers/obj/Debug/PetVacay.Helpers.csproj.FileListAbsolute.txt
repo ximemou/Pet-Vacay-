@@ -1,0 +1,27 @@
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Helpers\bin\Debug\PetVacay.Helpers.dll
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Helpers\bin\Debug\PetVacay.Helpers.pdb
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Helpers\obj\Debug\PetVacay.Helpers.dll
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Helpers\obj\Debug\PetVacay.Helpers.pdb
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Helpers\bin\Debug\PetVacay.Helpers.dll
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Helpers\bin\Debug\PetVacay.Helpers.pdb
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Helpers\obj\Debug\PetVacay.Helpers.dll
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Helpers\obj\Debug\PetVacay.Helpers.pdb
+C:\repositorio\PetVacay\PetVacay.Helpers\bin\Debug\PetVacay.Helpers.dll
+C:\repositorio\PetVacay\PetVacay.Helpers\bin\Debug\PetVacay.Helpers.pdb
+C:\repositorio\PetVacay\PetVacay.Helpers\obj\Debug\PetVacay.Helpers.dll
+C:\repositorio\PetVacay\PetVacay.Helpers\obj\Debug\PetVacay.Helpers.pdb
+C:\repo\PetVacay\PetVacay.Helpers\bin\Debug\PetVacay.Helpers.dll
+C:\repo\PetVacay\PetVacay.Helpers\bin\Debug\PetVacay.Helpers.pdb
+C:\repo\PetVacay\PetVacay.Helpers\obj\Debug\PetVacay.Helpers.csprojResolveAssemblyReference.cache
+C:\repo\PetVacay\PetVacay.Helpers\obj\Debug\PetVacay.Helpers.dll
+C:\repo\PetVacay\PetVacay.Helpers\obj\Debug\PetVacay.Helpers.pdb
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Helpers\obj\Debug\PetVacay.Helpers.csprojResolveAssemblyReference.cache
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Helpers\bin\Debug\PetVacay.Helpers.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Helpers\bin\Debug\PetVacay.Helpers.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Helpers\obj\Debug\PetVacay.Helpers.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Helpers\obj\Debug\PetVacay.Helpers.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Helpers\obj\Debug\PetVacay.Helpers.csprojResolveAssemblyReference.cache
+C:\backend\PetVacay\PetVacay.Helpers\bin\Debug\PetVacay.Helpers.dll
+C:\backend\PetVacay\PetVacay.Helpers\bin\Debug\PetVacay.Helpers.pdb
+C:\backend\PetVacay\PetVacay.Helpers\obj\Debug\PetVacay.Helpers.dll
+C:\backend\PetVacay\PetVacay.Helpers\obj\Debug\PetVacay.Helpers.pdb

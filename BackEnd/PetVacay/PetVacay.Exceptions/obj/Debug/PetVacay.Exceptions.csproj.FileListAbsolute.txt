@@ -1,0 +1,25 @@
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Exceptions\bin\Debug\PetVacay.Exceptions.dll
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Exceptions\bin\Debug\PetVacay.Exceptions.pdb
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Exceptions\obj\Debug\PetVacay.Exceptions.dll
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Exceptions\obj\Debug\PetVacay.Exceptions.pdb
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Exceptions\bin\Debug\PetVacay.Exceptions.dll
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Exceptions\bin\Debug\PetVacay.Exceptions.pdb
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Exceptions\obj\Debug\PetVacay.Exceptions.dll
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Exceptions\obj\Debug\PetVacay.Exceptions.pdb
+C:\repositorio\PetVacay\PetVacay.Exceptions\bin\Debug\PetVacay.Exceptions.dll
+C:\repositorio\PetVacay\PetVacay.Exceptions\bin\Debug\PetVacay.Exceptions.pdb
+C:\repositorio\PetVacay\PetVacay.Exceptions\obj\Debug\PetVacay.Exceptions.dll
+C:\repositorio\PetVacay\PetVacay.Exceptions\obj\Debug\PetVacay.Exceptions.pdb
+C:\repo\PetVacay\PetVacay.Exceptions\bin\Debug\PetVacay.Exceptions.dll
+C:\repo\PetVacay\PetVacay.Exceptions\bin\Debug\PetVacay.Exceptions.pdb
+C:\repo\PetVacay\PetVacay.Exceptions\obj\Debug\PetVacay.Exceptions.csprojResolveAssemblyReference.cache
+C:\repo\PetVacay\PetVacay.Exceptions\obj\Debug\PetVacay.Exceptions.dll
+C:\repo\PetVacay\PetVacay.Exceptions\obj\Debug\PetVacay.Exceptions.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Exceptions\bin\Debug\PetVacay.Exceptions.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Exceptions\bin\Debug\PetVacay.Exceptions.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Exceptions\obj\Debug\PetVacay.Exceptions.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Exceptions\obj\Debug\PetVacay.Exceptions.pdb
+C:\backend\PetVacay\PetVacay.Exceptions\bin\Debug\PetVacay.Exceptions.dll
+C:\backend\PetVacay\PetVacay.Exceptions\bin\Debug\PetVacay.Exceptions.pdb
+C:\backend\PetVacay\PetVacay.Exceptions\obj\Debug\PetVacay.Exceptions.dll
+C:\backend\PetVacay\PetVacay.Exceptions\obj\Debug\PetVacay.Exceptions.pdb

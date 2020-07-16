@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v4.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.ximenamoure.petvacay.SearchWorkersActivity"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:fillViewport="true">
+
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.ximenamoure.petvacay.SearchWorkersActivity"
+    android:background="@color/colorBackground"
+    >
+
+
+
+    <include layout="@layout/layout_toolbar" />
+
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="#c0c0c0"
+        android:layout_above="@+id/address"
+        android:layout_marginTop="5dp"/>
+    <TextView
+        android:id="@+id/address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textSize="18sp"
+        android:text="Buscar por dirección"
+        android:padding="10dp"/>
+
+    <fragment
+        android:layout_marginTop="10dp"
+        android:id="@+id/place_autocomplete_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:name="com.google.android.gms.location.places.ui.PlaceAutocompleteFragment"
+        android:padding="10dp"/>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="#c0c0c0"
+        android:layout_below="@+id/place_autocomplete_fragment"
+        android:layout_marginTop="5dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textSize="18sp"
+        android:text="Buscar por nombre"
+        android:padding="10dp"/>
+
+    <EditText
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/search_bar_workersName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="Nombre"
+        android:paddingLeft="20dp"
+        android:padding="10dp">
+    </EditText>
+
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="#c0c0c0"
+        android:layout_below="@+id/search_bar_workersName"
+        android:layout_marginTop="5dp"/>
+
+    <CheckBox
+        android:id="@+id/checkBoxIsWalker"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Buscar paseadores"
+        android:padding="10dp"/>
+
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="#c0c0c0"
+        android:layout_below="@+id/checkBoxIsWalker"
+        android:layout_marginTop="5dp"/>
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="8dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:background="@color/colorPrimary">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/ic_action_search"
+            android:tint="@color/white"
+            android:layout_marginRight="8dp"/>
+
+        <Button
+            android:id="@+id/searchWorkerBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="BUSCAR"
+            android:textSize="20sp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:background="@android:color/transparent"/>
+
+    </LinearLayout>
+
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_marginTop="20dp"
+        android:id="@+id/workersContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none"
+        android:padding="5dp">
+    </android.support.v7.widget.RecyclerView>
+
+</LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>

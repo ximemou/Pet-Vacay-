@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:background="@color/colorBackground">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.ximenamoure.petvacay.AddPetActivity"
+    android:padding="5dp"
+    >
+
+
+<android.support.v7.widget.CardView
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:elevation="50dp"
+    card_view:cardUseCompatPadding="true"
+    card_view:cardElevation="4dp"
+    card_view:cardCornerRadius="3dp">
+
+    <RelativeLayout
+        android:layout_width="370dp"
+        android:layout_height="428dp"
+        android:orientation="vertical"
+        android:padding="5dp">
+
+        <RelativeLayout
+            android:id="@+id/relativeLayout3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#d3d5d9"
+            android:elevation="8dp"
+            android:padding="16dp">
+
+
+            <TextView
+                android:id="@+id/yourData"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:text="Datos de tu mascota"
+                android:textSize="18sp" />
+
+        </RelativeLayout>
+
+        <EditText
+            android:id="@+id/petName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignTop="@+id/changeImage"
+            android:layout_marginTop="11dp"
+            android:ems="10"
+            android:hint="Nombre"
+            android:inputType="textPersonName" />
+
+
+
+        <TextView
+            android:id="@+id/petAge"
+            android:layout_width="213dp"
+            android:layout_height="38dp"
+            android:layout_weight="0.04"
+            android:hint="Edad"
+            android:textSize="18sp"
+            android:layout_below="@+id/textView2"
+            android:layout_alignParentStart="true" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_below="@+id/petAge"/>
+
+
+        <TextView
+            android:id="@+id/petWeight"
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:layout_marginTop="17dp"
+            android:layout_weight="0.05"
+            android:hint="Peso"
+            android:textSize="18sp"
+            android:layout_below="@+id/petAge"
+            android:layout_alignParentStart="true" />
+
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_below="@+id/petWeight"/>
+
+
+        <com.example.ximenamoure.petvacay.RoundedImage
+            android:id="@+id/changeImage"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginTop="20dp"
+            app:srcCompat="@drawable/dogcat"
+            android:layout_marginStart="27dp"
+            android:layout_below="@+id/relativeLayout3"
+            android:layout_toEndOf="@+id/petName" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/changeImage"
+            android:layout_toEndOf="@+id/petName"
+            android:elevation="10dp"
+            android:text="Cambiar foto"
+            android:textSize="18sp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_below="@+id/petWeight"/>
+
+        <RadioGroup
+            android:id="@+id/radioGroupPetType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_above="@+id/radioGroupPetGender"
+            android:layout_alignParentStart="true">
+
+
+            <TextView
+                android:id="@+id/petType"
+                android:layout_width="138dp"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/radioGroupPetType"
+                android:layout_alignParentStart="true"
+                android:layout_marginBottom="44dp"
+                android:hint="Tipo mascota"
+                android:textSize="18sp" />
+
+            <RadioButton
+                android:id="@+id/catType"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/radioGroupPetType"
+                android:layout_alignParentStart="true"
+                android:layout_weight="1"
+                android:text="Gato" />
+
+            <RadioButton
+                android:id="@+id/dogType"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/catType"
+                android:layout_alignBottom="@+id/catType"
+                android:layout_alignEnd="@+id/petType"
+                android:layout_marginEnd="21dp"
+                android:layout_marginLeft="10dp"
+                android:layout_weight="0.39"
+                android:text="Perro" />
+
+
+        </RadioGroup>
+
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:background="#c0c0c0"
+            android:layout_below="@+id/radioGroupPetType"/>
+        <RadioGroup
+            android:id="@+id/radioGroupPetGender"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginBottom="10dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true">
+
+            <TextView
+                android:id="@+id/petGender"
+                android:layout_width="85dp"
+                android:layout_height="39dp"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/radioGroupPetType"
+                android:layout_marginTop="13dp"
+                android:layout_toStartOf="@+id/femaleGender"
+                android:layout_weight="0.83"
+                android:hint="Sexo"
+                android:textSize="18sp" />
+
+            <RadioButton
+                android:id="@+id/femaleGender"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignBottom="@+id/petGender"
+                android:layout_toStartOf="@+id/textView2"
+                android:layout_weight="1.20"
+                android:text="Hembra" />
+
+            <RadioButton
+                android:id="@+id/maleGender"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignBaseline="@+id/femaleGender"
+                android:layout_alignBottom="@+id/femaleGender"
+                android:layout_alignEnd="@+id/changeImage"
+                android:layout_marginLeft="10dp"
+                android:layout_weight="1.13"
+                android:text="Macho" />
+
+
+        </RadioGroup>
+
+
+    </RelativeLayout>
+
+
+</android.support.v7.widget.CardView>
+
+
+    <android.support.v7.widget.CardView
+        xmlns:card_view="http://schemas.android.com/apk/res-auto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:elevation="50dp"
+        android:layout_marginTop="10dp"
+        card_view:cardUseCompatPadding="true"
+        card_view:cardElevation="4dp"
+        card_view:cardCornerRadius="3dp"
+
+
+       >
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="5dp"
+            >
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#d3d5d9"
+                android:elevation="8dp"
+                android:padding="16dp">
+
+
+                <TextView
+                    android:id="@+id/morePetInfo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentTop="true"
+                    android:text="Mas datos"
+                    android:textSize="18sp" />
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentStart="true">
+
+
+
+                <TextView
+                android:id="@+id/friendlyPet"
+                android:layout_width="176dp"
+                android:layout_height="38dp"
+                    android:text="Amigable"
+                android:textSize="18sp"
+                    android:layout_marginTop="81dp"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentStart="true" />
+
+                <CheckBox
+                android:id="@+id/isFriendly"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                    android:layout_alignTop="@+id/friendlyPet"
+                    android:layout_alignEnd="@+id/friendlyPet" />
+
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="2dp"
+                    android:background="#c0c0c0"
+                    android:layout_above="@+id/vaccination"/>
+
+
+                <TextView
+                    android:id="@+id/vaccination"
+                    android:layout_width="176dp"
+                    android:layout_height="38dp"
+                    android:layout_weight="0.05"
+                    android:text="Tiene vacunas"
+                    android:textSize="18sp"
+                    android:layout_below="@+id/friendlyPet"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginTop="29dp"
+                    />
+
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="2dp"
+                    android:background="#c0c0c0"
+                    android:layout_below="@+id/vaccination"/>
+
+                <CheckBox
+                    android:id="@+id/hasVaccination"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@+id/vaccination"
+                    android:layout_alignEnd="@+id/vaccination" />
+
+
+                <EditText
+                    android:id="@+id/petAdditionalInfo"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:hint="Informacion adicional"
+                    android:inputType="textMultiLine"
+                    android:lines="8"
+                    android:maxLines="10"
+                    android:minLines="1"
+                    android:scrollbars="vertical"
+                    android:layout_below="@+id/vaccination"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginTop="29dp" />
+
+
+            </RelativeLayout>
+
+
+
+        </RelativeLayout>
+
+
+    </android.support.v7.widget.CardView>
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="8dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:background="@color/colorPrimary">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/ic_action_save"
+            android:tint="@color/white"
+            android:layout_marginRight="8dp"/>
+
+        <Button
+            android:id="@+id/savePetButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="GUARDAR"
+            android:textSize="20sp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:background="@android:color/transparent"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>
+</android.support.v4.widget.NestedScrollView>

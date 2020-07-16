@@ -1,0 +1,109 @@
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Tests.dll
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Tests.pdb
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Data.DataAccess.dll
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Data.Repository.dll
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.DTO.dll
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Helpers.dll
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Services.dll
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\EntityFramework.dll
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Data.dll
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.DependencyResolver.dll
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Validators.dll
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Adapters.dll
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Exceptions.dll
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Data.DataAccess.pdb
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Data.Repository.pdb
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.DTO.pdb
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Helpers.pdb
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Services.pdb
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\EntityFramework.xml
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Data.pdb
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.DependencyResolver.pdb
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Validators.pdb
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Adapters.pdb
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Exceptions.pdb
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\backend\PetVacay\PetVacay.Tests\obj\Debug\PetVacay.Tests.csprojResolveAssemblyReference.cache
+C:\backend\PetVacay\PetVacay.Tests\obj\Debug\PetVacay.Tests.dll
+C:\backend\PetVacay\PetVacay.Tests\obj\Debug\PetVacay.Tests.pdb
+C:\backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Tests.dll.config
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\obj\Debug\PetVacay.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\obj\Debug\PetVacay.Tests.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\obj\Debug\PetVacay.Tests.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Tests.dll.config
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Tests.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Tests.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Data.DataAccess.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Data.Repository.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.DTO.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Exceptions.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Helpers.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Services.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Data.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.DependencyResolver.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Validators.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Adapters.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Data.DataAccess.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Data.Repository.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.DTO.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Exceptions.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Helpers.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Services.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Data.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.DependencyResolver.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Validators.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Adapters.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Tests\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Tests.dll.config
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Tests.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Tests.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Data.DataAccess.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Data.Repository.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.DTO.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Exceptions.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Helpers.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Services.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\EntityFramework.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Data.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\EntityFramework.SqlServer.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.DependencyResolver.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Validators.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Adapters.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\Microsoft.Practices.Unity.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Data.DataAccess.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Data.Repository.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.DTO.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Exceptions.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Helpers.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Services.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\EntityFramework.xml
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Data.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\EntityFramework.SqlServer.xml
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.DependencyResolver.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Validators.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\PetVacay.Adapters.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\Microsoft.Practices.Unity.xml
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\obj\Debug\PetVacay.Tests.csprojResolveAssemblyReference.cache
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\obj\Debug\PetVacay.Tests.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Tests\obj\Debug\PetVacay.Tests.pdb

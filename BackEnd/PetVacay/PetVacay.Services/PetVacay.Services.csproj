@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6307A2CF-62F5-465D-8588-F4034765FF3A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PetVacay.Services</RootNamespace>
+    <AssemblyName>PetVacay.Services</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BookingService.cs" />
+    <Compile Include="ClientService.cs" />
+    <Compile Include="DependencyResolver.cs" />
+    <Compile Include="IBookingService.cs" />
+    <Compile Include="IClientService.cs" />
+    <Compile Include="IInformService.cs" />
+    <Compile Include="ILoginService.cs" />
+    <Compile Include="InformService.cs" />
+    <Compile Include="IPaymentService.cs" />
+    <Compile Include="IReviewService.cs" />
+    <Compile Include="IWorkerService.cs" />
+    <Compile Include="LogInService.cs" />
+    <Compile Include="PaymentService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReviewService.cs" />
+    <Compile Include="WorkerService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PetVacay.Adapters\PetVacay.Adapters.csproj">
+      <Project>{171baf65-ae5f-4c2f-8c9a-58caaaafe9eb}</Project>
+      <Name>PetVacay.Adapters</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PetVacay.Data.Repository\PetVacay.Data.Repository.csproj">
+      <Project>{48ab4a8a-d9c0-4f89-9d1e-60ea8ba7f219}</Project>
+      <Name>PetVacay.Data.Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PetVacay.Data\PetVacay.Data.csproj">
+      <Project>{31e48e3e-f822-49fb-9f35-3ac1d588a496}</Project>
+      <Name>PetVacay.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PetVacay.DependencyResolver\PetVacay.DependencyResolver.csproj">
+      <Project>{f916b276-af87-44c4-8db0-69e696dfaf6f}</Project>
+      <Name>PetVacay.DependencyResolver</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PetVacay.DTO\PetVacay.DTO.csproj">
+      <Project>{e40082f2-69b7-4e0f-b7a2-adfa3c31bf4a}</Project>
+      <Name>PetVacay.DTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PetVacay.Enumerators\PetVacay.Enumerators.csproj">
+      <Project>{e05fbfb6-2f48-4efa-90ed-f2dcf694a93c}</Project>
+      <Name>PetVacay.Enumerators</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PetVacay.Exceptions\PetVacay.Exceptions.csproj">
+      <Project>{0029c0aa-3ca1-4452-bbd4-7983211a69cc}</Project>
+      <Name>PetVacay.Exceptions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PetVacay.Helpers\PetVacay.Helpers.csproj">
+      <Project>{0a5d107a-0228-4e0f-92fd-3eb3d69d8a51}</Project>
+      <Name>PetVacay.Helpers</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PetVacay.Validators\PetVacay.Validators.csproj">
+      <Project>{c0d1f4aa-3010-47e6-9306-d8050ad87df4}</Project>
+      <Name>PetVacay.Validators</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

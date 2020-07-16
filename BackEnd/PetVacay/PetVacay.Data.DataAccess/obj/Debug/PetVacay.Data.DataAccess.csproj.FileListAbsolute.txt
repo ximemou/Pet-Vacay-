@@ -1,0 +1,96 @@
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.DataAccess.dll.config
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.DataAccess.dll
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.DataAccess.pdb
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.dll
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.pdb
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.dll
+C:\Users\ismap\Documents\Visual Studio 2015\Projects\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.pdb
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.DataAccess.dll.config
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.DataAccess.dll
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.DataAccess.pdb
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.dll
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.pdb
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.dll
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.pdb
+C:\repositorio\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.DataAccess.dll.config
+C:\repositorio\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.DataAccess.dll
+C:\repositorio\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.DataAccess.pdb
+C:\repositorio\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.dll
+C:\repositorio\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\repositorio\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.dll
+C:\repositorio\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.pdb
+C:\repositorio\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.xml
+C:\repositorio\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\repositorio\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.csprojResolveAssemblyReference.cache
+C:\repositorio\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.dll
+C:\repositorio\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.pdb
+C:\repositorio\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.Migrations.nueva.resources
+C:\repositorio\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.csproj.GenerateResource.Cache
+C:\repo\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.DataAccess.dll.config
+C:\repo\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.DataAccess.dll
+C:\repo\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.DataAccess.pdb
+C:\repo\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.dll
+C:\repo\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\repo\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.dll
+C:\repo\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.pdb
+C:\repo\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.xml
+C:\repo\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\repo\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.csprojResolveAssemblyReference.cache
+C:\repo\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.dll
+C:\repo\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.pdb
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.Migrations.nueva.resources
+C:\Users\ismap\Documents\Universidad\Ingenieria de software en la practica\Obligatorio\Repositorio Backend\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.csproj.GenerateResource.Cache
+C:\repo\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.Migrations.nueva.resources
+C:\repo\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.csproj.GenerateResource.Cache
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.DataAccess.dll.config
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.DataAccess.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.DataAccess.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.xml
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.csprojResolveAssemblyReference.cache
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.dll
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.pdb
+C:\backend\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.csprojResolveAssemblyReference.cache
+C:\backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.DataAccess.dll.config
+C:\backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.DataAccess.dll
+C:\backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.DataAccess.pdb
+C:\backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.dll
+C:\backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.dll
+C:\backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.pdb
+C:\backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.xml
+C:\backend\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\backend\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.dll
+C:\backend\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.pdb
+C:\backend\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.csproj.GenerateResource.Cache
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.DataAccess.dll.config
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.DataAccess.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.DataAccess.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data.DataAccess\bin\Debug\PetVacay.Data.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.pdb
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.Migrations.nueva.resources
+Z:\ingenieria-de-software-en-la-practica-backend\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.csproj.GenerateResource.Cache
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.Migrations.prueba.resources
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.csproj.GenerateResource.Cache
+C:\backend\PetVacay\PetVacay.Data.DataAccess\obj\Debug\PetVacay.Data.DataAccess.Migrations.prueba.resources

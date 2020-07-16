@@ -1,0 +1,4 @@
+C:\backend\PetVacay\PetVacay.Adapters\bin\Debug\PetVacay.Adapters.dll
+C:\backend\PetVacay\PetVacay.Adapters\bin\Debug\PetVacay.Adapters.pdb
+C:\backend\PetVacay\PetVacay.Adapters\obj\Debug\PetVacay.Adapters.dll
+C:\backend\PetVacay\PetVacay.Adapters\obj\Debug\PetVacay.Adapters.pdb

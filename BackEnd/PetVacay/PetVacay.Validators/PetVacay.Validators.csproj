@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C0D1F4AA-3010-47E6-9306-D8050AD87DF4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PetVacay.Validators</RootNamespace>
+    <AssemblyName>PetVacay.Validators</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClientValidator.cs" />
+    <Compile Include="IPetValidator.cs" />
+    <Compile Include="IUsersValidator.cs" />
+    <Compile Include="PetValidator.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WorkerValidator.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PetVacay.Data.Repository\PetVacay.Data.Repository.csproj">
+      <Project>{48ab4a8a-d9c0-4f89-9d1e-60ea8ba7f219}</Project>
+      <Name>PetVacay.Data.Repository</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PetVacay.Data\PetVacay.Data.csproj">
+      <Project>{31e48e3e-f822-49fb-9f35-3ac1d588a496}</Project>
+      <Name>PetVacay.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PetVacay.DependencyResolver\PetVacay.DependencyResolver.csproj">
+      <Project>{f916b276-af87-44c4-8db0-69e696dfaf6f}</Project>
+      <Name>PetVacay.DependencyResolver</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PetVacay.DTO\PetVacay.DTO.csproj">
+      <Project>{e40082f2-69b7-4e0f-b7a2-adfa3c31bf4a}</Project>
+      <Name>PetVacay.DTO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PetVacay.Enumerators\PetVacay.Enumerators.csproj">
+      <Project>{E05FBFB6-2F48-4EFA-90ED-F2DCF694A93C}</Project>
+      <Name>PetVacay.Enumerators</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PetVacay.Exceptions\PetVacay.Exceptions.csproj">
+      <Project>{0029c0aa-3ca1-4452-bbd4-7983211a69cc}</Project>
+      <Name>PetVacay.Exceptions</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PetVacay.Helpers\PetVacay.Helpers.csproj">
+      <Project>{0a5d107a-0228-4e0f-92fd-3eb3d69d8a51}</Project>
+      <Name>PetVacay.Helpers</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

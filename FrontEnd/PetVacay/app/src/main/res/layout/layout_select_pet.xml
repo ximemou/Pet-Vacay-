@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<android.support.v7.widget.CardView xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/petData"
+    android:layout_width="wrap_content"
+    android:layout_height="120dp"
+    android:elevation="50dp"
+    card_view:cardUseCompatPadding="true"
+    card_view:cardElevation="4dp"
+    card_view:cardCornerRadius="3dp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:foreground="?attr/selectableItemBackground"
+        >
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/petSelImage"
+                android:layout_width="90dp"
+                android:layout_height="match_parent"
+                android:src="@drawable/dogcat"
+                android:layout_margin="3dp"
+                android:padding="10dp"
+                android:scaleType="centerCrop"
+                android:transitionName="image"
+                android:layout_centerVertical="true"
+                android:layout_alignParentStart="true" />
+
+            <TextView
+                android:id="@+id/petSelName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/petSelImage"
+                android:paddingTop="14dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="2dp"
+                android:maxLines="1"
+                android:ellipsize="end"
+                style="?android:textAppearanceMedium"
+                tools:text="Title 1" />
+
+            <TextView
+                android:id="@+id/petSelType"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/petSelImage"
+                android:layout_below="@id/petSelName"
+                android:padding="20dp"
+                android:ellipsize="end"
+                android:maxLines="4"
+                style="?android:textAppearanceSmall"
+                tools:text="Description goes here" />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="5px"
+                android:background="#949090"/>
+
+            <RadioButton
+                android:id="@+id/radioSelectPet"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="31dp"
+                app:srcCompat="@drawable/ic_action_edit"
+                android:layout_below="@+id/petSelName"
+                android:layout_alignParentEnd="true" />
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

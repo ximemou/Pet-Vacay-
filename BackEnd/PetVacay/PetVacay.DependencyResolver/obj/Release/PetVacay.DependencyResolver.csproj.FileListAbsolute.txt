@@ -1,0 +1,26 @@
+C:\backend\PetVacay\PetVacay.DependencyResolver\bin\Release\PetVacay.DependencyResolver.dll
+C:\backend\PetVacay\PetVacay.DependencyResolver\bin\Release\PetVacay.DependencyResolver.pdb
+C:\backend\PetVacay\PetVacay.DependencyResolver\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\backend\PetVacay\PetVacay.DependencyResolver\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+C:\backend\PetVacay\PetVacay.DependencyResolver\bin\Release\Microsoft.Practices.Unity.dll
+C:\backend\PetVacay\PetVacay.DependencyResolver\bin\Release\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\backend\PetVacay\PetVacay.DependencyResolver\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\backend\PetVacay\PetVacay.DependencyResolver\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\backend\PetVacay\PetVacay.DependencyResolver\bin\Release\Microsoft.Practices.Unity.xml
+C:\backend\PetVacay\PetVacay.DependencyResolver\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+C:\backend\PetVacay\PetVacay.DependencyResolver\bin\Release\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\backend\PetVacay\PetVacay.DependencyResolver\obj\Release\PetVacay.DependencyResolver.dll
+C:\backend\PetVacay\PetVacay.DependencyResolver\obj\Release\PetVacay.DependencyResolver.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.DependencyResolver\bin\Release\PetVacay.DependencyResolver.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.DependencyResolver\bin\Release\PetVacay.DependencyResolver.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.DependencyResolver\bin\Release\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.DependencyResolver\bin\Release\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.DependencyResolver\bin\Release\Microsoft.Practices.Unity.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.DependencyResolver\bin\Release\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.DependencyResolver\bin\Release\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.DependencyResolver\bin\Release\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.DependencyResolver\bin\Release\Microsoft.Practices.Unity.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.DependencyResolver\bin\Release\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.DependencyResolver\bin\Release\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.DependencyResolver\obj\Release\PetVacay.DependencyResolver.dll
+C:\Users\Juan\Documents\ORT\7º Semestre\Ingeniería de Software en la Práctica\ObligatorioISPBackEnd\PetVacay\PetVacay.DependencyResolver\obj\Release\PetVacay.DependencyResolver.pdb
